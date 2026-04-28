@@ -1,0 +1,12 @@
+{
+  "name": "Remix: LinguaFox",
+  "description": "An immersive multi-language learning platform featuring interactive pillars for grammar, reading, speaking, and listening, plus an AI-powered language lab.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ],
+  "majorCapabilities": [
+    "AI Language Analysis",
+    "Multi-language Support"
+  ]
+}
